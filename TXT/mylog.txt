@@ -1,7 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC  W00  10 L03  GitHub related
+ZCZC  W00  10  L03  GitHub related
 ZCZC  W00  180 L70  Writing an essay for PBP
-ZCZC  W00  30 L32  YouTube: Funny videos and Technology updates/reviews
-ZCZC  W00  25 L81  Listening to newly released music
+ZCZC  W00  30  L32  YouTube: Funny videos and Technology updates/reviews
+ZCZC  W00  25  L81  Listening to newly released music
+ZCZC  W01  30  L11  Assignment #01
+ZCZC  W01  240 L12  Assignment #02
+ZCZC  W01  60  L13  Assignment #03
+ZCZC  W01  60  L14  Assignment #04
+ZCZC  W01  60  L15  Assignment #05
+ZCZC  W01  45  L70  Studying for Linear Algebra
+ZCZC  W01  25  L80  Watching random Netflix series

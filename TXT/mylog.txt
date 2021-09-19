@@ -12,3 +12,8 @@ ZCZC  W01  60  L14  Assignment #04
 ZCZC  W01  60  L15  Assignment #05
 ZCZC  W01  45  L70  Studying for Linear Algebra
 ZCZC  W01  25  L80  Watching random Netflix series
+ZCZC  W02  120 L09  Working on OS212 W02 Assignments
+ZCZC  W02  130 L80  Watch CyberSecurity Introduction on Youtube
+ZCZC  W02  60  L99  Backing up important files from old computer
+ZCZC  W02  90  L70  Setting up first Django project for PBP
+ZCZC  W02  25  L81  Listening to random music

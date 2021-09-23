@@ -17,3 +17,9 @@ ZCZC  W02  130 L80  Watch CyberSecurity Introduction on Youtube
 ZCZC  W02  60  L99  Backing up important files from old computer
 ZCZC  W02  90  L70  Setting up first Django project for PBP
 ZCZC  W02  25  L81  Listening to random music
+ZCZC  W03  100 L09  Working on OS212 W03 Assignments
+ZCZC  W03  30  L07  Trying out W03 Demos
+ZCZC  W03  60  L70  Doing several PBP lab assignments
+ZCZC  W03  180 L02  Attending OS212 ZOOM Meetings
+ZCZC  W03  20  L22  OS212 Quiz
+ZCZC  W03  30  L80  Watching random YouTube video that pops up

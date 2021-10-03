@@ -23,3 +23,6 @@ ZCZC  W03  60  L70  Doing several PBP lab assignments
 ZCZC  W03  180 L02  Attending OS212 ZOOM Meetings
 ZCZC  W03  20  L22  OS212 Quiz
 ZCZC  W03  30  L80  Watching random YouTube video that pops up
+ZCZC  W04  60  L09  Working on OS212 W04 assignments
+ZCZC  W04  60  L26  Practicing C-language
+ZCZC  W04  360 L84  Good sleep

@@ -26,3 +26,7 @@ ZCZC  W03  30  L80  Watching random YouTube video that pops up
 ZCZC  W04  60  L09  Working on OS212 W04 assignments
 ZCZC  W04  60  L26  Practicing C-language
 ZCZC  W04  360 L84  Good sleep
+ZCZC  W05  90  L09  Working on OS212 W05 assignments
+ZCZC  W05  30  L28  SSH, key-gen, tunneling, putty, winscp
+ZCZC  W05  30  L04  Adding github page links
+ZCZC  W05  25  L80  Watching random film series

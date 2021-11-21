@@ -33,3 +33,4 @@ ZCZC  W05  25  L80  Watching random film series on Netflix
 ZCZC  W06  100 L09  Working on OS212 W06 Assignments
 ZCZC  W07  90  L09  Working on OS212 W07 Assignments
 ZCZC  W08  300 L09  Working on OS212 W08 Assignments
+ZCZC  W08  180 L09  Working on OS212 W09 Assignments

@@ -33,3 +33,43 @@ Literally a tutorial that takes you from zero to hero, from basic to epic, from 
 A simple and helpful explanation of File System on a single page. It covers pretty much of them.
 ### 11. [OVERVIEW OF FILE SYSTEM HIERARCHY STANDARD (FHS)](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs)
 Gives an overview of FHS. It also linked to related topics that you can configure on the left side of the page.
+
+## W04
+### 12. [Why Linux is Better for Programming](https://www.youtube.com/watch?v=otDOHt_Jges "Click to Open Video")
+A video that tells about reasons why Linux is better for programming than any other Operating System.
+### 13. [Intro to Linux Memory Management](https://www.youtube.com/watch?v=wbi6IZDIv_4 "Click to open video")
+An introduction video to Linux Memory Management for beginners.
+### 14. [Dynamic Memory Allocation in C](https://www.javatpoint.com/dynamic-memory-allocation-in-c "Click to Open")
+A brief explanation about Dynamic Memory Allocation in C along with the syntax examples.
+
+## W05
+### 15. [Virtual Memory](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986#:~:text=Virtual%20memory%20is%20a%20feature,space%20on%20the%20hard%20disk. "Click to Open")
+This article explains what virtual memory is and it's correlation with RAM and paging files.
+### 16. [Linux Swap Space](https://opensource.com/article/18/9/swap-space-linux-systems "Click to Open")
+Linux memory swap space and trashing.
+### 17. [Kernel Memory](https://afteracademy.com/blog/what-is-kernel-in-operating-system-and-what-are-the-various-types-of-kernel "Click to Open")
+Article about Kernel memory and it's various types.
+
+## W06
+### 18. [Concurrency and Parallelism](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350 "Click to Open")
+Gives a great explanation about the difference between concurrency and parallelism in operating system.
+### 19. [Process and Thread](https://www.guru99.com/difference-between-process-and-thread.html "Click to Open")
+Differences between process and thread in operating system.
+### 20. [What is Multithreading?](https://totalview.io/blog/multithreading-multithreaded-applications "Click to Open")
+Explanation about what multithreading is, the benefits, and its applications.
+
+## W07
+### 21. [Mutex and Semaphore](https://www.guru99.com/mutex-vs-semaphore.html "Click to Open")
+This gives you an explanation of when to use mutex or semaphore for synchronization in OS.
+### 22. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/ "Click to Open")
+Article that explains about process synchronization with peterson and semaphone solution.
+### 23. [CPU Scheduling in OS](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html "Click to Open")
+This is a very great site that explains the basic concepts of CPU scheduling, scheduling criteria, scheduling algorithms, thread scheduling, etc.
+
+## W08
+### 24. [States of a Process](https://www.tutorialspoint.com/what-are-the-different-states-of-a-process "Click to Open")
+A simple and brief explanation about states of a process in Operating Systems.
+### 25. [Multiple-Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html "Click to Open")
+Basically all you need to learn the basics of Multiple-Processor Scheduling in Operating Systems.
+### 26. [Process Scheduling](https://www.guru99.com/process-scheduling.html "Click to Open")
+This website explains about process scheduling, types of process scheduling, and many more.
